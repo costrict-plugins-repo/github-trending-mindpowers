@@ -1,0 +1,41 @@
+{
+  "name": "mindpowers",
+  "version": "0.12.0",
+  "description": "One loop for clear knowledge work: check whether evidence is strong enough for the next action, shape the deliverable one useful question at a time, draft from an approved spec, review the result, and remember what you like. Missing decisions, evidence limits, readiness, and required human approval stay visible.",
+  "author": {
+    "name": "Rohit Gehe",
+    "email": "rohitgehe05@gmail.com",
+    "url": "https://github.com/rohitgehe05"
+  },
+  "homepage": "https://github.com/rohitgehe05/mindpowers",
+  "repository": "https://github.com/rohitgehe05/mindpowers",
+  "license": "MIT",
+  "keywords": [
+    "mindstorming",
+    "knowledge-work",
+    "writing",
+    "prd",
+    "problem-validation",
+    "product-management",
+    "requirements",
+    "acceptance-criteria"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mindpowers",
+    "shortDescription": "Validate, shape, draft, review, and learn.",
+    "longDescription": "A problem-first workflow for turning rough knowledge-work ideas into evidence-assessed briefs, locked specs, adaptive and traceable PRDs, finished documents, reviews, and reusable preferences.",
+    "developerName": "Rohit Gehe",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/rohitgehe05/mindpowers",
+    "defaultPrompt": [
+      "Validate this problem before we pitch a direction.",
+      "Help me shape this rough idea into a clear spec.",
+      "Review this document against its intended standard."
+    ]
+  }
+}
